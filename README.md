@@ -1,3 +1,4 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Welcome to SquadGreen, an innovative app designed to transform university campuses into hubs of environmental consciousness. Leveraging Squad's API, SquadGreen gamifies eco-friendly practices, rewarding students for positive contributions to their surroundings.
+SquadGreen integrates gaming elements such as carbon offset challenges, tree planting quests, and garbage control missions to make sustainability fun and rewarding. The app incorporates a unique feature - a platform for viewing business ads, generating rewards in the form of money, Squad NFTs, or digital coins. With Squad's API, these rewards seamlessly convert into cash, providing students with tangible benefits. Moreover, SquadGreen facilitates donations for environmental improvement, connecting potential contributors through Squad's secure and global payment system.
+
